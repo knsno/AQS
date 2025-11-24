@@ -12,13 +12,13 @@
 
 ## Valid usage
 
-* Assuming the directory is that of the .C file, use this bash command to compile: '$ gcc "Adam's Quicksort.c" -o aqs'.
+* Assuming the directory is that of the .C file, use this bash command to compile: `$ gcc "Adam's Quicksort.c" -o aqs`.
 
-* And this one to run: './aqs (arguments)'. Arguments in this context refer to any integer in the range -999 → 999, with the solution requiring at least two to run.
+* And this one to run: `./aqs (arguments)`. Arguments in this context refer to any integer in the range -999 → 999, with the solution requiring at least two to run.
 
 * For example, if I run './aqs 4 1 2', it should return as output:
 
-\# Sorted arguments: #
-1
-2
-4
+\# Sorted arguments: #  
+1  
+2  
+4  
